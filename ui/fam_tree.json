@@ -1,0 +1,7 @@
+{"1":{"name": "Peter Griffin", "role":  "father", "desc": "the father"},
+  "2":{"name": "Lois Griffin", "role":  "mother", "desc": "the mother"},
+  "3":{"name":  "Stewie Griffin", "role":  "baby", "desc": "the baby"},
+  "4":{"name":  "Meg Griffin", "role":  "daughter", "desc": "the daughter"},
+  "5":{"name":  "Chris Griffin", "role":  "son", "desc": "the son"},
+  "6":{"name":  "Brian Griffin", "role":  "dog", "desc": "the dog"}
+}
